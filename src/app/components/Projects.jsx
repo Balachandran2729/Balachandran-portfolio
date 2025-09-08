@@ -59,6 +59,13 @@ export default function Projects() {
       tech: ["MERN", "JWT", "Next.js", "MongoDB"],
       github: "https://github.com/Balachandran2729/Task-Distribution-System",
       demo: "#"
+    },
+    {
+      title: "Earthquake_Visualizer",
+      description: "Interactive React application visualizing real-time global seismic activity using the USGS Earthquake API, featuring an interactive map with marker clustering, date-range filtering, animated markers, and a searchable list of recent earthquakes.",
+      tech: [ "React.js", "Tailwind CSS"],
+      github: "https://github.com/Balachandran2729/Earthquake_Visualizer",
+      demo: "https://earthquake-visualiz.netlify.app/"
     }
   ];
 
